@@ -5,7 +5,18 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import random
+import base64
+import os
 from datetime import datetime, timedelta
+
+# ─── LOAD LOGO ───────────────────────────────────────────────────────────────
+def load_logo(path="logo.png"):
+    if os.path.exists(path):
+        with open(path, "rb") as f:
+            return base64.b64encode(f.read()).decode()
+    return ""
+
+LOGO_B64 = load_logo()
 
 # ─── PAGE CONFIG ─────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -370,7 +381,7 @@ def style_axes(fig, rows=1, cols=1):
 
 
 # ─── HEADER ──────────────────────────────────────────────────────────────────
-st.markdown("""
+st.markdown(f"""
 <div class="header-banner">
   <div class="header-left">
     <p class="header-title">B2B Support Analytics Dashboard</p>
@@ -384,7 +395,9 @@ st.markdown("""
         Nihal S Talampally &nbsp;&nbsp;Akash Krishna
       </div>
     </div>
-    <div class="logo-box">Jain<span>University</span></div>
+    <div class="logo-box">
+      <img src="data:image/png;base64,{LOGO_B64}" style="width:100%;height:100%;object-fit:contain;padding:6px;" />
+    </div>
   </div>
 </div>
 """, unsafe_allow_html=True)
@@ -392,7 +405,7 @@ st.markdown("""
 
 # ─── SIDEBAR FILTERS ─────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("""
+    st.markdown(f"""
     <div style="
         background: #1C2333;
         border: 1px solid rgba(201,168,76,0.3);
@@ -401,27 +414,12 @@ with st.sidebar:
         margin-bottom: 1.4rem;
         text-align: center;
     ">
-        <div style="
-            font-family: 'Fraunces', serif;
-            font-size: 1.6rem;
-            font-weight: 600;
-            color: #C9A84C;
-            line-height: 1;
-            letter-spacing: -0.5px;
-        ">Jain</div>
-        <div style="
-            font-family: 'Plus Jakarta Sans', sans-serif;
-            font-size: 0.58rem;
-            letter-spacing: 3px;
-            color: #6B7280;
-            text-transform: uppercase;
-            margin-top: 3px;
-        ">University</div>
+        <img src="data:image/png;base64,{LOGO_B64}" style="width:100%;max-width:160px;margin-bottom:8px;" />
         <div style="
             width: 36px;
             height: 1px;
             background: rgba(201,168,76,0.35);
-            margin: 10px auto;
+            margin: 6px auto 8px auto;
         "></div>
         <div style="
             font-family: 'Plus Jakarta Sans', sans-serif;
