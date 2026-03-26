@@ -1,0 +1,1001 @@
+Ticket_ID,Client_Name,Industry,Region,Issue_Type,Response_Time,Resolution_Time,Satisfaction_Score
+TKT1,Client_48,IT Services,West,Service Delay,57,30,4
+TKT2,Client_196,IT Services,South,Billing Issue,26,36,3
+TKT3,Client_131,Retail,North,Technical Issue,64,24,1
+TKT4,Client_4,IT Services,South,Account Access,22,5,4
+TKT5,Client_224,Retail,South,Billing Issue,58,15,3
+TKT6,Client_255,IT Services,East,Account Access,20,12,4
+TKT7,Client_179,Healthcare,South,Account Access,19,7,4
+TKT8,Client_158,Healthcare,North,Account Access,5,8,4
+TKT9,Client_146,Manufacturing,South,Service Delay,28,39,4
+TKT10,Client_63,IT Services,North,Billing Issue,34,14,4
+TKT11,Client_240,Manufacturing,South,Account Access,27,11,4
+TKT12,Client_84,Healthcare,North,Account Access,5,11,4
+TKT13,Client_188,Manufacturing,East,Product Inquiry,5,10,4
+TKT14,Client_169,Healthcare,West,Billing Issue,51,24,4
+TKT15,Client_197,Manufacturing,West,Billing Issue,26,29,3
+TKT16,Client_233,Manufacturing,North,Service Delay,53,56,3
+TKT17,Client_214,Retail,East,Product Inquiry,11,12,4
+TKT18,Client_221,IT Services,West,Account Access,20,5,4
+TKT19,Client_295,IT Services,South,Technical Issue,35,60,4
+TKT20,Client_211,Finance,North,Product Inquiry,17,2,4
+TKT21,Client_193,Healthcare,West,Service Delay,48,53,3
+TKT22,Client_29,Retail,South,Product Inquiry,10,2,4
+TKT23,Client_73,Healthcare,South,Account Access,8,7,5
+TKT24,Client_264,Finance,South,Product Inquiry,16,4,4
+TKT25,Client_86,Finance,North,Service Delay,78,47,3
+TKT26,Client_220,IT Services,North,Technical Issue,87,42,3
+TKT27,Client_143,Healthcare,East,Billing Issue,39,30,4
+TKT28,Client_290,Manufacturing,East,Product Inquiry,13,8,5
+TKT29,Client_113,Manufacturing,North,Account Access,12,2,5
+TKT30,Client_86,Finance,East,Product Inquiry,28,5,4
+TKT31,Client_154,Healthcare,North,Product Inquiry,10,3,4
+TKT32,Client_147,IT Services,East,Service Delay,33,41,4
+TKT33,Client_189,Healthcare,South,Service Delay,70,45,2
+TKT34,Client_276,Healthcare,North,Billing Issue,57,31,3
+TKT35,Client_137,IT Services,South,Billing Issue,24,36,3
+TKT36,Client_142,Manufacturing,East,Service Delay,42,27,3
+TKT37,Client_8,IT Services,South,Billing Issue,31,19,3
+TKT38,Client_30,IT Services,South,Billing Issue,59,16,3
+TKT39,Client_220,Healthcare,West,Product Inquiry,9,10,5
+TKT40,Client_31,Finance,North,Product Inquiry,24,5,4
+TKT41,Client_13,Retail,East,Billing Issue,41,35,4
+TKT42,Client_120,Retail,East,Service Delay,33,54,3
+TKT43,Client_20,IT Services,North,Billing Issue,59,15,3
+TKT44,Client_228,IT Services,South,Technical Issue,116,55,3
+TKT45,Client_81,Retail,South,Product Inquiry,19,1,4
+TKT46,Client_192,Finance,East,Billing Issue,44,32,3
+TKT47,Client_42,Retail,South,Account Access,8,2,4
+TKT48,Client_125,IT Services,North,Product Inquiry,20,8,3
+TKT49,Client_40,Finance,North,Service Delay,53,60,4
+TKT50,Client_43,Manufacturing,West,Account Access,16,4,5
+TKT51,Client_69,Manufacturing,East,Product Inquiry,20,9,4
+TKT52,Client_215,Finance,East,Technical Issue,92,72,2
+TKT53,Client_179,Healthcare,North,Billing Issue,41,28,3
+TKT54,Client_216,IT Services,South,Technical Issue,58,45,4
+TKT55,Client_165,IT Services,West,Technical Issue,40,34,3
+TKT56,Client_193,Finance,North,Technical Issue,59,71,3
+TKT57,Client_137,Retail,East,Technical Issue,97,55,3
+TKT58,Client_265,IT Services,South,Service Delay,31,44,3
+TKT59,Client_73,IT Services,West,Account Access,16,11,4
+TKT60,Client_149,Retail,West,Technical Issue,113,24,3
+TKT61,Client_234,Manufacturing,South,Technical Issue,116,71,3
+TKT62,Client_239,Healthcare,West,Product Inquiry,10,6,4
+TKT63,Client_131,Finance,South,Technical Issue,35,34,3
+TKT64,Client_201,Manufacturing,East,Account Access,30,8,3
+TKT65,Client_186,Finance,North,Technical Issue,52,29,4
+TKT66,Client_300,Finance,East,Technical Issue,79,40,3
+TKT67,Client_35,Finance,East,Billing Issue,46,15,4
+TKT68,Client_258,Finance,West,Product Inquiry,17,9,5
+TKT69,Client_293,Retail,North,Service Delay,74,58,1
+TKT70,Client_95,IT Services,West,Service Delay,73,25,1
+TKT71,Client_176,Manufacturing,East,Product Inquiry,6,5,5
+TKT72,Client_182,Manufacturing,East,Service Delay,59,42,3
+TKT73,Client_260,Healthcare,East,Technical Issue,34,65,3
+TKT74,Client_157,Manufacturing,North,Technical Issue,68,47,2
+TKT75,Client_164,Finance,South,Account Access,11,1,4
+TKT76,Client_278,IT Services,East,Product Inquiry,18,7,4
+TKT77,Client_44,Manufacturing,South,Service Delay,56,43,4
+TKT78,Client_203,Finance,South,Product Inquiry,15,7,5
+TKT79,Client_84,Manufacturing,East,Technical Issue,84,50,1
+TKT80,Client_11,Retail,North,Account Access,5,5,4
+TKT81,Client_139,Finance,East,Product Inquiry,25,3,4
+TKT82,Client_229,IT Services,South,Technical Issue,52,49,3
+TKT83,Client_173,Finance,West,Technical Issue,40,60,3
+TKT84,Client_119,Finance,West,Technical Issue,32,47,3
+TKT85,Client_120,Finance,South,Account Access,21,2,3
+TKT86,Client_263,Manufacturing,North,Service Delay,77,57,2
+TKT87,Client_107,IT Services,East,Billing Issue,41,12,3
+TKT88,Client_160,Finance,North,Billing Issue,26,23,3
+TKT89,Client_247,Finance,West,Product Inquiry,13,12,4
+TKT90,Client_224,Retail,North,Account Access,24,9,4
+TKT91,Client_82,Finance,West,Technical Issue,95,60,3
+TKT92,Client_236,IT Services,West,Account Access,14,1,5
+TKT93,Client_69,Manufacturing,West,Technical Issue,85,65,1
+TKT94,Client_184,Finance,South,Account Access,19,2,5
+TKT95,Client_187,Finance,South,Service Delay,51,43,4
+TKT96,Client_51,Finance,West,Billing Issue,41,20,3
+TKT97,Client_15,Manufacturing,West,Product Inquiry,27,7,4
+TKT98,Client_77,Manufacturing,South,Product Inquiry,21,10,3
+TKT99,Client_196,Manufacturing,East,Technical Issue,120,72,1
+TKT100,Client_68,Healthcare,South,Billing Issue,43,13,4
+TKT101,Client_185,IT Services,South,Billing Issue,27,13,4
+TKT102,Client_158,IT Services,North,Service Delay,59,50,4
+TKT103,Client_92,Manufacturing,South,Account Access,22,2,3
+TKT104,Client_251,Finance,West,Service Delay,78,43,2
+TKT105,Client_212,IT Services,South,Billing Issue,47,33,4
+TKT106,Client_269,Healthcare,East,Product Inquiry,20,8,3
+TKT107,Client_41,IT Services,East,Service Delay,50,50,3
+TKT108,Client_230,Finance,North,Billing Issue,24,34,4
+TKT109,Client_9,Retail,West,Service Delay,41,24,3
+TKT110,Client_201,IT Services,East,Technical Issue,36,49,3
+TKT111,Client_88,IT Services,West,Service Delay,79,55,1
+TKT112,Client_137,Manufacturing,South,Billing Issue,50,31,3
+TKT113,Client_133,Manufacturing,West,Service Delay,67,46,3
+TKT114,Client_292,Finance,West,Technical Issue,41,44,3
+TKT115,Client_101,Finance,West,Technical Issue,60,47,3
+TKT116,Client_213,IT Services,West,Billing Issue,38,12,4
+TKT117,Client_55,Manufacturing,West,Technical Issue,45,67,3
+TKT118,Client_171,Healthcare,South,Account Access,17,12,4
+TKT119,Client_175,IT Services,East,Account Access,16,12,4
+TKT120,Client_204,Finance,East,Service Delay,52,27,4
+TKT121,Client_284,IT Services,West,Account Access,6,4,4
+TKT122,Client_154,IT Services,West,Service Delay,29,22,3
+TKT123,Client_172,IT Services,West,Billing Issue,40,35,4
+TKT124,Client_203,IT Services,North,Service Delay,26,25,3
+TKT125,Client_121,Manufacturing,North,Account Access,27,7,3
+TKT126,Client_178,IT Services,South,Product Inquiry,14,7,5
+TKT127,Client_95,Manufacturing,East,Technical Issue,99,37,1
+TKT128,Client_258,Retail,West,Billing Issue,37,26,4
+TKT129,Client_53,Healthcare,East,Technical Issue,107,72,2
+TKT130,Client_32,Manufacturing,North,Service Delay,73,22,2
+TKT131,Client_149,Retail,North,Account Access,27,5,4
+TKT132,Client_144,Healthcare,North,Technical Issue,102,31,3
+TKT133,Client_201,Retail,West,Account Access,11,2,5
+TKT134,Client_61,Healthcare,South,Service Delay,47,50,4
+TKT135,Client_223,Healthcare,North,Technical Issue,117,53,1
+TKT136,Client_90,Retail,East,Billing Issue,52,36,3
+TKT137,Client_99,IT Services,East,Billing Issue,33,19,4
+TKT138,Client_64,Retail,South,Billing Issue,60,30,2
+TKT139,Client_51,Manufacturing,East,Account Access,12,2,4
+TKT140,Client_78,Finance,North,Billing Issue,23,33,4
+TKT141,Client_46,Finance,South,Product Inquiry,28,7,3
+TKT142,Client_235,IT Services,South,Technical Issue,95,40,3
+TKT143,Client_283,Retail,West,Billing Issue,32,12,3
+TKT144,Client_149,Healthcare,North,Technical Issue,34,51,3
+TKT145,Client_27,Healthcare,West,Account Access,8,6,4
+TKT146,Client_100,IT Services,West,Technical Issue,72,49,3
+TKT147,Client_285,Retail,East,Technical Issue,84,35,2
+TKT148,Client_154,Retail,East,Service Delay,34,21,4
+TKT149,Client_130,Retail,South,Billing Issue,20,35,3
+TKT150,Client_25,Healthcare,West,Product Inquiry,15,11,4
+TKT151,Client_153,Retail,East,Product Inquiry,28,12,4
+TKT152,Client_259,Healthcare,North,Account Access,7,10,5
+TKT153,Client_217,Retail,East,Product Inquiry,7,10,4
+TKT154,Client_137,Manufacturing,East,Service Delay,76,58,2
+TKT155,Client_243,Manufacturing,West,Product Inquiry,16,5,5
+TKT156,Client_176,IT Services,East,Account Access,12,3,5
+TKT157,Client_76,Retail,South,Technical Issue,107,66,3
+TKT158,Client_155,Manufacturing,East,Technical Issue,116,38,1
+TKT159,Client_217,Retail,East,Account Access,5,3,4
+TKT160,Client_24,Manufacturing,West,Product Inquiry,15,3,5
+TKT161,Client_46,IT Services,South,Account Access,10,3,5
+TKT162,Client_152,Retail,South,Billing Issue,59,14,4
+TKT163,Client_282,Manufacturing,West,Technical Issue,84,58,2
+TKT164,Client_61,IT Services,North,Billing Issue,28,33,3
+TKT165,Client_256,Healthcare,North,Product Inquiry,27,6,3
+TKT166,Client_145,Finance,West,Product Inquiry,29,5,4
+TKT167,Client_154,Manufacturing,East,Account Access,19,11,5
+TKT168,Client_207,IT Services,North,Technical Issue,120,32,3
+TKT169,Client_87,Manufacturing,West,Product Inquiry,27,8,3
+TKT170,Client_103,IT Services,East,Account Access,19,5,5
+TKT171,Client_27,IT Services,East,Account Access,21,2,3
+TKT172,Client_164,Retail,East,Account Access,15,2,4
+TKT173,Client_192,Retail,West,Billing Issue,43,31,4
+TKT174,Client_100,Manufacturing,North,Billing Issue,53,36,4
+TKT175,Client_16,Finance,South,Technical Issue,53,70,3
+TKT176,Client_198,IT Services,South,Billing Issue,36,23,3
+TKT177,Client_30,IT Services,South,Account Access,27,1,3
+TKT178,Client_192,Manufacturing,North,Service Delay,40,26,4
+TKT179,Client_173,Manufacturing,South,Technical Issue,47,53,4
+TKT180,Client_182,IT Services,North,Account Access,23,5,3
+TKT181,Client_179,IT Services,North,Billing Issue,60,33,1
+TKT182,Client_71,Retail,East,Billing Issue,50,29,3
+TKT183,Client_294,Manufacturing,North,Technical Issue,88,62,3
+TKT184,Client_106,Manufacturing,North,Product Inquiry,15,6,5
+TKT185,Client_123,Retail,West,Technical Issue,90,60,2
+TKT186,Client_221,Manufacturing,East,Service Delay,80,60,2
+TKT187,Client_88,Healthcare,West,Product Inquiry,13,11,4
+TKT188,Client_264,Healthcare,East,Service Delay,49,42,3
+TKT189,Client_230,Retail,North,Account Access,12,7,4
+TKT190,Client_55,IT Services,North,Service Delay,46,20,4
+TKT191,Client_60,Manufacturing,West,Billing Issue,59,29,4
+TKT192,Client_173,Finance,North,Product Inquiry,28,2,3
+TKT193,Client_207,Retail,West,Technical Issue,60,58,1
+TKT194,Client_171,Retail,West,Technical Issue,108,37,2
+TKT195,Client_171,Retail,East,Product Inquiry,15,2,5
+TKT196,Client_201,IT Services,West,Technical Issue,113,49,3
+TKT197,Client_125,Healthcare,East,Billing Issue,58,35,4
+TKT198,Client_138,Manufacturing,South,Account Access,7,4,5
+TKT199,Client_246,Manufacturing,South,Service Delay,37,43,3
+TKT200,Client_77,Manufacturing,West,Service Delay,72,47,3
+TKT201,Client_297,Manufacturing,West,Billing Issue,37,31,3
+TKT202,Client_235,Healthcare,East,Service Delay,26,20,3
+TKT203,Client_152,Finance,West,Account Access,5,11,4
+TKT204,Client_134,Finance,North,Billing Issue,58,13,4
+TKT205,Client_183,Manufacturing,South,Service Delay,26,35,3
+TKT206,Client_103,Retail,South,Service Delay,66,42,3
+TKT207,Client_252,Retail,East,Product Inquiry,14,4,5
+TKT208,Client_174,Manufacturing,North,Billing Issue,40,29,4
+TKT209,Client_1,Manufacturing,South,Product Inquiry,17,6,5
+TKT210,Client_77,Manufacturing,East,Billing Issue,58,22,4
+TKT211,Client_218,Finance,West,Product Inquiry,21,6,3
+TKT212,Client_139,Manufacturing,North,Account Access,18,10,5
+TKT213,Client_60,Healthcare,West,Account Access,12,12,5
+TKT214,Client_119,Manufacturing,South,Technical Issue,108,31,2
+TKT215,Client_289,IT Services,North,Technical Issue,48,26,3
+TKT216,Client_84,IT Services,East,Technical Issue,40,57,4
+TKT217,Client_67,IT Services,East,Technical Issue,77,53,1
+TKT218,Client_53,Healthcare,East,Technical Issue,91,40,3
+TKT219,Client_227,Finance,East,Account Access,13,9,5
+TKT220,Client_134,Manufacturing,North,Billing Issue,55,15,4
+TKT221,Client_29,Retail,West,Account Access,15,7,4
+TKT222,Client_34,Healthcare,West,Product Inquiry,25,1,3
+TKT223,Client_281,Manufacturing,West,Technical Issue,98,24,2
+TKT224,Client_238,IT Services,North,Account Access,5,8,5
+TKT225,Client_140,Retail,South,Service Delay,78,44,3
+TKT226,Client_8,IT Services,West,Technical Issue,92,24,2
+TKT227,Client_282,Retail,South,Billing Issue,26,12,4
+TKT228,Client_207,Finance,East,Product Inquiry,19,5,4
+TKT229,Client_142,IT Services,West,Product Inquiry,27,10,4
+TKT230,Client_99,Healthcare,South,Product Inquiry,29,4,4
+TKT231,Client_74,Manufacturing,East,Account Access,9,9,5
+TKT232,Client_252,Manufacturing,South,Account Access,17,8,4
+TKT233,Client_41,Manufacturing,North,Service Delay,74,42,1
+TKT234,Client_254,Healthcare,West,Service Delay,36,59,4
+TKT235,Client_149,Manufacturing,West,Billing Issue,30,33,3
+TKT236,Client_152,Manufacturing,West,Technical Issue,47,45,3
+TKT237,Client_183,Healthcare,North,Billing Issue,56,16,4
+TKT238,Client_59,IT Services,North,Service Delay,67,50,2
+TKT239,Client_256,Retail,West,Service Delay,63,41,1
+TKT240,Client_108,Healthcare,South,Technical Issue,118,57,2
+TKT241,Client_126,Healthcare,West,Service Delay,70,28,3
+TKT242,Client_35,Healthcare,North,Billing Issue,29,20,3
+TKT243,Client_25,Manufacturing,East,Technical Issue,54,50,4
+TKT244,Client_174,IT Services,North,Technical Issue,53,46,4
+TKT245,Client_70,Manufacturing,West,Account Access,14,5,4
+TKT246,Client_263,Manufacturing,East,Account Access,5,11,5
+TKT247,Client_72,IT Services,South,Product Inquiry,25,5,3
+TKT248,Client_187,Healthcare,North,Technical Issue,38,30,4
+TKT249,Client_276,Manufacturing,North,Billing Issue,26,12,3
+TKT250,Client_119,Finance,East,Product Inquiry,19,12,5
+TKT251,Client_200,Healthcare,South,Billing Issue,28,34,4
+TKT252,Client_249,Finance,West,Billing Issue,37,18,4
+TKT253,Client_128,Healthcare,West,Billing Issue,46,21,4
+TKT254,Client_52,Finance,West,Service Delay,33,54,4
+TKT255,Client_207,Healthcare,North,Product Inquiry,15,4,5
+TKT256,Client_245,Healthcare,West,Service Delay,77,31,1
+TKT257,Client_146,Manufacturing,West,Account Access,23,3,4
+TKT258,Client_33,Healthcare,West,Technical Issue,51,41,4
+TKT259,Client_158,Retail,South,Billing Issue,53,23,3
+TKT260,Client_242,Retail,East,Billing Issue,44,31,4
+TKT261,Client_223,Manufacturing,South,Account Access,6,7,5
+TKT262,Client_221,IT Services,East,Product Inquiry,26,2,4
+TKT263,Client_71,IT Services,South,Product Inquiry,25,3,4
+TKT264,Client_154,Manufacturing,East,Account Access,9,10,4
+TKT265,Client_10,IT Services,South,Product Inquiry,9,1,5
+TKT266,Client_148,IT Services,East,Account Access,7,11,5
+TKT267,Client_244,Finance,West,Product Inquiry,6,8,5
+TKT268,Client_113,Healthcare,East,Account Access,30,4,3
+TKT269,Client_197,Manufacturing,East,Product Inquiry,12,9,5
+TKT270,Client_73,Retail,East,Technical Issue,66,30,2
+TKT271,Client_87,Healthcare,West,Billing Issue,33,19,3
+TKT272,Client_158,Finance,South,Service Delay,30,46,4
+TKT273,Client_219,Finance,West,Account Access,13,4,4
+TKT274,Client_297,Finance,North,Product Inquiry,21,4,4
+TKT275,Client_93,Healthcare,South,Service Delay,53,32,3
+TKT276,Client_262,IT Services,South,Technical Issue,117,48,2
+TKT277,Client_222,Healthcare,North,Service Delay,48,59,3
+TKT278,Client_255,Healthcare,North,Account Access,22,1,3
+TKT279,Client_136,Manufacturing,South,Product Inquiry,28,4,4
+TKT280,Client_48,Healthcare,West,Product Inquiry,5,1,4
+TKT281,Client_41,Retail,North,Billing Issue,32,33,4
+TKT282,Client_69,Retail,North,Account Access,10,4,4
+TKT283,Client_200,IT Services,North,Product Inquiry,10,7,5
+TKT284,Client_243,Healthcare,West,Service Delay,53,59,3
+TKT285,Client_21,IT Services,South,Product Inquiry,30,5,4
+TKT286,Client_142,Retail,South,Billing Issue,44,32,4
+TKT287,Client_103,Retail,North,Service Delay,43,53,3
+TKT288,Client_47,Finance,East,Service Delay,72,48,2
+TKT289,Client_14,Healthcare,South,Account Access,23,8,3
+TKT290,Client_61,Finance,West,Account Access,12,10,5
+TKT291,Client_208,Finance,East,Billing Issue,30,25,4
+TKT292,Client_299,Retail,East,Product Inquiry,5,10,5
+TKT293,Client_186,IT Services,North,Service Delay,32,38,4
+TKT294,Client_286,Retail,South,Product Inquiry,22,5,4
+TKT295,Client_73,Manufacturing,West,Billing Issue,55,21,3
+TKT296,Client_217,Finance,North,Technical Issue,42,57,3
+TKT297,Client_246,IT Services,East,Billing Issue,25,18,4
+TKT298,Client_88,Healthcare,South,Service Delay,47,48,4
+TKT299,Client_138,IT Services,South,Account Access,7,4,4
+TKT300,Client_147,Manufacturing,North,Billing Issue,54,12,4
+TKT301,Client_202,IT Services,North,Billing Issue,30,12,3
+TKT302,Client_175,Retail,South,Billing Issue,21,24,4
+TKT303,Client_280,Manufacturing,East,Service Delay,51,49,3
+TKT304,Client_186,IT Services,East,Technical Issue,118,27,2
+TKT305,Client_197,IT Services,North,Technical Issue,47,48,3
+TKT306,Client_63,Finance,East,Technical Issue,42,46,4
+TKT307,Client_134,Manufacturing,East,Account Access,30,3,4
+TKT308,Client_113,Retail,North,Account Access,24,7,3
+TKT309,Client_118,Manufacturing,South,Product Inquiry,17,8,5
+TKT310,Client_73,IT Services,East,Service Delay,62,29,3
+TKT311,Client_237,Retail,West,Account Access,5,11,4
+TKT312,Client_130,Healthcare,North,Product Inquiry,29,2,4
+TKT313,Client_169,Retail,South,Service Delay,28,23,3
+TKT314,Client_159,Healthcare,West,Billing Issue,27,27,3
+TKT315,Client_275,IT Services,East,Account Access,5,11,4
+TKT316,Client_31,IT Services,North,Billing Issue,35,34,3
+TKT317,Client_216,Manufacturing,South,Billing Issue,57,32,4
+TKT318,Client_59,Healthcare,South,Billing Issue,22,21,4
+TKT319,Client_271,Retail,South,Billing Issue,43,20,4
+TKT320,Client_101,IT Services,South,Product Inquiry,16,12,5
+TKT321,Client_300,Finance,East,Product Inquiry,21,3,4
+TKT322,Client_252,Finance,South,Account Access,20,1,3
+TKT323,Client_151,Manufacturing,North,Product Inquiry,14,2,4
+TKT324,Client_182,Finance,South,Product Inquiry,14,6,4
+TKT325,Client_285,IT Services,North,Service Delay,77,38,1
+TKT326,Client_19,Retail,West,Service Delay,41,29,4
+TKT327,Client_22,Retail,North,Technical Issue,94,43,2
+TKT328,Client_180,Retail,West,Billing Issue,39,19,4
+TKT329,Client_25,Retail,North,Billing Issue,45,23,4
+TKT330,Client_125,Retail,South,Product Inquiry,21,11,3
+TKT331,Client_139,Manufacturing,West,Service Delay,41,45,4
+TKT332,Client_271,Retail,East,Service Delay,64,57,2
+TKT333,Client_260,Retail,East,Technical Issue,59,30,4
+TKT334,Client_283,Manufacturing,West,Billing Issue,37,22,3
+TKT335,Client_167,Retail,West,Billing Issue,48,14,4
+TKT336,Client_243,IT Services,West,Product Inquiry,21,4,4
+TKT337,Client_92,Retail,East,Service Delay,49,31,4
+TKT338,Client_269,Retail,South,Account Access,27,12,3
+TKT339,Client_138,Finance,West,Account Access,25,11,4
+TKT340,Client_238,Retail,East,Account Access,20,10,3
+TKT341,Client_205,Healthcare,East,Billing Issue,49,19,4
+TKT342,Client_41,Healthcare,East,Service Delay,62,31,3
+TKT343,Client_257,Finance,South,Technical Issue,30,37,3
+TKT344,Client_264,Finance,South,Product Inquiry,21,5,3
+TKT345,Client_90,Retail,East,Product Inquiry,10,5,5
+TKT346,Client_164,Finance,North,Service Delay,59,52,3
+TKT347,Client_69,IT Services,North,Technical Issue,85,49,3
+TKT348,Client_205,IT Services,North,Product Inquiry,9,1,5
+TKT349,Client_268,Finance,East,Billing Issue,36,13,3
+TKT350,Client_176,Manufacturing,East,Service Delay,30,43,4
+TKT351,Client_193,IT Services,East,Technical Issue,113,68,3
+TKT352,Client_135,Manufacturing,East,Product Inquiry,11,7,4
+TKT353,Client_230,Manufacturing,West,Technical Issue,37,59,3
+TKT354,Client_261,IT Services,North,Billing Issue,24,16,4
+TKT355,Client_46,Retail,North,Billing Issue,22,15,4
+TKT356,Client_226,Healthcare,East,Technical Issue,112,55,2
+TKT357,Client_117,Healthcare,West,Service Delay,25,32,3
+TKT358,Client_97,Manufacturing,North,Service Delay,72,59,3
+TKT359,Client_75,Finance,West,Billing Issue,56,22,3
+TKT360,Client_39,Healthcare,West,Service Delay,58,44,3
+TKT361,Client_208,Finance,North,Technical Issue,76,68,2
+TKT362,Client_37,Retail,East,Account Access,14,2,5
+TKT363,Client_112,Retail,South,Billing Issue,60,12,3
+TKT364,Client_273,Manufacturing,East,Account Access,29,2,4
+TKT365,Client_183,IT Services,East,Service Delay,73,39,1
+TKT366,Client_23,Finance,North,Billing Issue,21,32,4
+TKT367,Client_79,IT Services,North,Account Access,9,8,4
+TKT368,Client_280,Healthcare,South,Billing Issue,33,25,3
+TKT369,Client_278,Retail,North,Account Access,28,1,4
+TKT370,Client_117,Finance,South,Billing Issue,36,27,3
+TKT371,Client_85,IT Services,North,Technical Issue,58,65,3
+TKT372,Client_300,Manufacturing,North,Billing Issue,37,14,4
+TKT373,Client_98,IT Services,West,Account Access,23,6,4
+TKT374,Client_8,Healthcare,West,Account Access,10,11,5
+TKT375,Client_140,Retail,East,Account Access,22,3,3
+TKT376,Client_140,Retail,North,Technical Issue,49,55,3
+TKT377,Client_82,Finance,South,Technical Issue,70,58,2
+TKT378,Client_119,Retail,East,Billing Issue,50,12,3
+TKT379,Client_246,Healthcare,West,Service Delay,45,21,3
+TKT380,Client_131,Retail,West,Product Inquiry,13,7,5
+TKT381,Client_253,IT Services,East,Account Access,27,9,3
+TKT382,Client_261,Retail,South,Billing Issue,32,25,3
+TKT383,Client_94,Manufacturing,North,Account Access,20,5,3
+TKT384,Client_224,Retail,South,Billing Issue,31,19,4
+TKT385,Client_109,Healthcare,West,Technical Issue,79,24,3
+TKT386,Client_111,IT Services,West,Service Delay,48,44,3
+TKT387,Client_258,Healthcare,West,Product Inquiry,17,4,5
+TKT388,Client_296,Retail,North,Billing Issue,26,23,3
+TKT389,Client_34,Healthcare,West,Service Delay,50,35,3
+TKT390,Client_154,Healthcare,South,Product Inquiry,10,4,5
+TKT391,Client_159,Finance,West,Service Delay,56,52,3
+TKT392,Client_30,Healthcare,East,Technical Issue,84,38,2
+TKT393,Client_300,Manufacturing,South,Technical Issue,91,70,3
+TKT394,Client_174,Finance,South,Service Delay,56,47,3
+TKT395,Client_229,IT Services,West,Service Delay,43,25,4
+TKT396,Client_288,IT Services,West,Service Delay,36,28,4
+TKT397,Client_293,IT Services,South,Billing Issue,28,34,4
+TKT398,Client_145,Healthcare,West,Account Access,12,9,4
+TKT399,Client_266,Retail,South,Billing Issue,36,12,3
+TKT400,Client_103,IT Services,South,Billing Issue,39,26,3
+TKT401,Client_233,IT Services,East,Product Inquiry,26,5,4
+TKT402,Client_298,Healthcare,East,Service Delay,64,58,3
+TKT403,Client_260,Retail,West,Billing Issue,30,19,3
+TKT404,Client_236,IT Services,East,Account Access,8,6,4
+TKT405,Client_246,Healthcare,South,Service Delay,46,54,3
+TKT406,Client_86,Finance,South,Product Inquiry,15,11,4
+TKT407,Client_128,Finance,South,Product Inquiry,19,1,5
+TKT408,Client_75,Manufacturing,West,Service Delay,80,42,2
+TKT409,Client_157,Finance,South,Account Access,18,3,4
+TKT410,Client_198,Finance,West,Service Delay,30,56,4
+TKT411,Client_255,Manufacturing,West,Account Access,14,5,4
+TKT412,Client_161,Healthcare,East,Billing Issue,37,32,3
+TKT413,Client_191,Finance,South,Billing Issue,21,20,4
+TKT414,Client_287,Healthcare,West,Technical Issue,107,47,2
+TKT415,Client_264,Finance,East,Product Inquiry,25,5,4
+TKT416,Client_60,Manufacturing,West,Account Access,20,10,3
+TKT417,Client_262,IT Services,West,Product Inquiry,23,1,4
+TKT418,Client_75,Finance,East,Technical Issue,39,44,3
+TKT419,Client_279,Finance,South,Service Delay,52,58,4
+TKT420,Client_32,Manufacturing,West,Service Delay,29,26,4
+TKT421,Client_7,Healthcare,South,Billing Issue,50,33,4
+TKT422,Client_207,Manufacturing,East,Product Inquiry,20,1,4
+TKT423,Client_133,Manufacturing,West,Product Inquiry,22,5,4
+TKT424,Client_251,IT Services,East,Account Access,5,6,4
+TKT425,Client_146,IT Services,North,Technical Issue,106,69,2
+TKT426,Client_86,Healthcare,West,Service Delay,36,34,4
+TKT427,Client_137,Retail,West,Technical Issue,94,52,3
+TKT428,Client_258,IT Services,North,Billing Issue,39,32,3
+TKT429,Client_75,Manufacturing,North,Billing Issue,33,28,3
+TKT430,Client_249,Finance,North,Billing Issue,47,21,3
+TKT431,Client_89,Healthcare,South,Product Inquiry,11,6,5
+TKT432,Client_95,Healthcare,North,Service Delay,73,40,2
+TKT433,Client_82,Manufacturing,East,Service Delay,73,26,3
+TKT434,Client_73,Manufacturing,North,Technical Issue,57,34,3
+TKT435,Client_171,Healthcare,West,Technical Issue,101,45,3
+TKT436,Client_60,IT Services,East,Service Delay,75,34,2
+TKT437,Client_266,Finance,East,Product Inquiry,23,6,4
+TKT438,Client_135,IT Services,East,Technical Issue,105,39,2
+TKT439,Client_110,Healthcare,South,Product Inquiry,20,5,3
+TKT440,Client_240,IT Services,West,Service Delay,54,51,4
+TKT441,Client_257,Finance,North,Product Inquiry,17,5,4
+TKT442,Client_106,IT Services,South,Technical Issue,59,43,3
+TKT443,Client_42,Healthcare,West,Account Access,16,2,5
+TKT444,Client_116,Healthcare,South,Product Inquiry,22,1,3
+TKT445,Client_100,Manufacturing,South,Billing Issue,43,16,4
+TKT446,Client_49,Retail,West,Billing Issue,54,14,4
+TKT447,Client_118,Retail,West,Product Inquiry,7,10,4
+TKT448,Client_22,Retail,North,Billing Issue,35,23,3
+TKT449,Client_10,Finance,East,Billing Issue,57,29,3
+TKT450,Client_84,Finance,North,Technical Issue,31,36,3
+TKT451,Client_74,IT Services,West,Product Inquiry,21,10,4
+TKT452,Client_167,IT Services,West,Billing Issue,46,13,3
+TKT453,Client_231,Manufacturing,South,Product Inquiry,5,3,5
+TKT454,Client_141,Healthcare,South,Billing Issue,34,25,4
+TKT455,Client_43,IT Services,East,Account Access,10,4,5
+TKT456,Client_189,IT Services,South,Technical Issue,103,72,2
+TKT457,Client_296,Retail,South,Product Inquiry,28,9,4
+TKT458,Client_1,IT Services,South,Account Access,27,3,4
+TKT459,Client_295,Healthcare,North,Product Inquiry,23,5,4
+TKT460,Client_175,Retail,South,Account Access,26,6,3
+TKT461,Client_276,Retail,South,Product Inquiry,23,10,4
+TKT462,Client_99,Manufacturing,West,Account Access,17,3,4
+TKT463,Client_84,Manufacturing,East,Billing Issue,36,26,3
+TKT464,Client_91,IT Services,East,Account Access,21,5,3
+TKT465,Client_181,Finance,North,Technical Issue,88,61,1
+TKT466,Client_129,Retail,North,Product Inquiry,10,2,5
+TKT467,Client_161,Finance,East,Account Access,13,5,4
+TKT468,Client_295,IT Services,West,Technical Issue,74,32,3
+TKT469,Client_47,Finance,South,Product Inquiry,14,5,5
+TKT470,Client_47,IT Services,East,Account Access,13,9,4
+TKT471,Client_151,Finance,South,Technical Issue,119,28,2
+TKT472,Client_183,Finance,South,Service Delay,27,38,3
+TKT473,Client_88,Retail,West,Product Inquiry,27,12,3
+TKT474,Client_191,IT Services,North,Service Delay,28,40,4
+TKT475,Client_257,Retail,South,Billing Issue,40,24,4
+TKT476,Client_106,Healthcare,North,Account Access,11,4,4
+TKT477,Client_209,Healthcare,North,Service Delay,46,42,3
+TKT478,Client_159,IT Services,South,Technical Issue,68,67,3
+TKT479,Client_104,Finance,South,Billing Issue,47,29,4
+TKT480,Client_18,Finance,North,Product Inquiry,20,11,3
+TKT481,Client_91,Healthcare,East,Technical Issue,91,64,2
+TKT482,Client_45,Healthcare,North,Product Inquiry,20,5,3
+TKT483,Client_168,Healthcare,South,Billing Issue,40,35,4
+TKT484,Client_109,Finance,East,Service Delay,70,59,3
+TKT485,Client_8,Manufacturing,North,Account Access,19,5,5
+TKT486,Client_267,IT Services,East,Billing Issue,53,35,4
+TKT487,Client_114,Finance,North,Account Access,5,11,4
+TKT488,Client_177,Retail,West,Billing Issue,40,15,4
+TKT489,Client_220,Healthcare,East,Technical Issue,107,26,2
+TKT490,Client_52,Healthcare,South,Account Access,9,10,5
+TKT491,Client_64,IT Services,West,Account Access,18,6,5
+TKT492,Client_93,IT Services,West,Account Access,28,1,4
+TKT493,Client_22,Retail,North,Product Inquiry,19,11,4
+TKT494,Client_182,Manufacturing,East,Account Access,22,11,4
+TKT495,Client_188,Manufacturing,North,Account Access,23,3,4
+TKT496,Client_223,Finance,South,Account Access,28,11,4
+TKT497,Client_186,Retail,West,Service Delay,45,60,4
+TKT498,Client_186,Manufacturing,South,Product Inquiry,5,11,4
+TKT499,Client_169,Retail,West,Billing Issue,31,36,4
+TKT500,Client_116,Manufacturing,West,Product Inquiry,20,4,3
+TKT501,Client_262,Retail,East,Service Delay,61,41,2
+TKT502,Client_115,Healthcare,East,Service Delay,70,39,2
+TKT503,Client_122,IT Services,South,Product Inquiry,29,8,4
+TKT504,Client_16,Finance,West,Service Delay,80,55,2
+TKT505,Client_195,Retail,South,Product Inquiry,30,1,3
+TKT506,Client_6,Healthcare,West,Account Access,21,4,4
+TKT507,Client_236,Finance,East,Billing Issue,29,12,3
+TKT508,Client_144,Retail,West,Product Inquiry,16,7,4
+TKT509,Client_271,Manufacturing,East,Service Delay,72,31,1
+TKT510,Client_128,Retail,West,Account Access,19,2,4
+TKT511,Client_267,Healthcare,West,Product Inquiry,27,5,4
+TKT512,Client_241,Finance,East,Account Access,13,11,4
+TKT513,Client_113,Manufacturing,West,Technical Issue,69,56,3
+TKT514,Client_193,Finance,North,Service Delay,75,42,1
+TKT515,Client_300,Manufacturing,North,Product Inquiry,28,6,4
+TKT516,Client_34,Healthcare,North,Billing Issue,60,28,2
+TKT517,Client_300,Healthcare,West,Technical Issue,58,69,3
+TKT518,Client_118,Healthcare,South,Product Inquiry,13,11,5
+TKT519,Client_167,IT Services,East,Technical Issue,96,32,3
+TKT520,Client_195,Manufacturing,West,Service Delay,73,59,1
+TKT521,Client_198,Manufacturing,West,Product Inquiry,19,6,4
+TKT522,Client_201,IT Services,East,Billing Issue,41,29,4
+TKT523,Client_226,Manufacturing,North,Service Delay,51,35,3
+TKT524,Client_242,Retail,East,Billing Issue,26,32,4
+TKT525,Client_103,Healthcare,East,Product Inquiry,13,6,5
+TKT526,Client_238,Healthcare,North,Service Delay,57,32,4
+TKT527,Client_268,Healthcare,South,Service Delay,72,29,3
+TKT528,Client_24,Healthcare,West,Technical Issue,50,72,4
+TKT529,Client_105,Healthcare,West,Billing Issue,52,13,3
+TKT530,Client_261,IT Services,South,Account Access,26,3,4
+TKT531,Client_262,IT Services,East,Technical Issue,42,42,3
+TKT532,Client_182,Manufacturing,North,Billing Issue,38,30,4
+TKT533,Client_37,Retail,North,Technical Issue,34,44,3
+TKT534,Client_129,Retail,East,Product Inquiry,21,9,3
+TKT535,Client_204,Healthcare,North,Technical Issue,35,46,3
+TKT536,Client_276,Manufacturing,South,Service Delay,58,32,4
+TKT537,Client_59,IT Services,South,Billing Issue,20,12,3
+TKT538,Client_156,IT Services,South,Service Delay,63,29,3
+TKT539,Client_130,Finance,West,Service Delay,56,51,4
+TKT540,Client_96,Retail,North,Technical Issue,52,72,4
+TKT541,Client_199,Finance,West,Account Access,10,5,5
+TKT542,Client_223,Retail,West,Technical Issue,44,31,3
+TKT543,Client_215,Manufacturing,North,Billing Issue,29,12,4
+TKT544,Client_7,Manufacturing,North,Billing Issue,36,24,4
+TKT545,Client_179,Finance,East,Product Inquiry,20,8,4
+TKT546,Client_4,IT Services,North,Service Delay,79,24,2
+TKT547,Client_118,Healthcare,East,Account Access,29,3,4
+TKT548,Client_147,IT Services,West,Billing Issue,50,33,3
+TKT549,Client_117,Healthcare,South,Billing Issue,37,19,4
+TKT550,Client_174,Manufacturing,East,Service Delay,31,45,3
+TKT551,Client_104,Healthcare,West,Billing Issue,53,24,4
+TKT552,Client_2,IT Services,North,Product Inquiry,19,5,4
+TKT553,Client_195,Retail,North,Service Delay,28,44,3
+TKT554,Client_194,Retail,South,Product Inquiry,5,2,5
+TKT555,Client_259,Healthcare,South,Billing Issue,55,31,4
+TKT556,Client_272,IT Services,East,Technical Issue,38,24,3
+TKT557,Client_261,IT Services,South,Product Inquiry,18,1,5
+TKT558,Client_57,Finance,West,Product Inquiry,16,6,4
+TKT559,Client_271,Healthcare,West,Account Access,13,12,4
+TKT560,Client_76,Retail,South,Product Inquiry,14,7,4
+TKT561,Client_255,Healthcare,East,Product Inquiry,21,7,4
+TKT562,Client_126,Finance,West,Service Delay,34,45,3
+TKT563,Client_56,Healthcare,West,Product Inquiry,18,7,4
+TKT564,Client_169,Healthcare,East,Billing Issue,30,20,4
+TKT565,Client_245,Retail,South,Billing Issue,27,23,3
+TKT566,Client_64,IT Services,East,Product Inquiry,20,9,4
+TKT567,Client_22,Finance,South,Technical Issue,46,32,3
+TKT568,Client_6,IT Services,West,Technical Issue,75,42,1
+TKT569,Client_164,Finance,South,Product Inquiry,27,3,3
+TKT570,Client_7,Retail,North,Technical Issue,116,34,2
+TKT571,Client_216,Healthcare,South,Service Delay,26,35,3
+TKT572,Client_50,Retail,West,Billing Issue,34,32,4
+TKT573,Client_100,Healthcare,East,Billing Issue,24,24,3
+TKT574,Client_18,IT Services,West,Product Inquiry,7,9,4
+TKT575,Client_29,Manufacturing,West,Technical Issue,113,48,2
+TKT576,Client_164,Manufacturing,North,Product Inquiry,16,7,4
+TKT577,Client_179,Manufacturing,West,Technical Issue,119,43,3
+TKT578,Client_118,Healthcare,West,Account Access,13,9,4
+TKT579,Client_222,Retail,South,Billing Issue,34,30,4
+TKT580,Client_214,IT Services,South,Account Access,8,3,4
+TKT581,Client_135,Healthcare,South,Technical Issue,46,53,4
+TKT582,Client_83,Retail,East,Product Inquiry,10,10,5
+TKT583,Client_294,IT Services,South,Product Inquiry,19,6,5
+TKT584,Client_51,Manufacturing,West,Billing Issue,39,21,4
+TKT585,Client_198,Finance,East,Account Access,9,9,4
+TKT586,Client_198,Finance,South,Service Delay,71,33,2
+TKT587,Client_238,Finance,North,Technical Issue,115,32,1
+TKT588,Client_159,Healthcare,North,Technical Issue,69,58,2
+TKT589,Client_264,Manufacturing,West,Product Inquiry,25,8,3
+TKT590,Client_284,Retail,East,Technical Issue,115,50,1
+TKT591,Client_215,Manufacturing,East,Account Access,24,12,3
+TKT592,Client_146,Manufacturing,East,Account Access,18,7,5
+TKT593,Client_244,Finance,East,Service Delay,42,38,3
+TKT594,Client_218,Retail,North,Service Delay,63,21,2
+TKT595,Client_266,Healthcare,North,Technical Issue,55,43,3
+TKT596,Client_67,Healthcare,East,Product Inquiry,18,12,5
+TKT597,Client_62,Manufacturing,South,Product Inquiry,18,2,4
+TKT598,Client_6,Retail,East,Account Access,15,6,5
+TKT599,Client_80,Manufacturing,South,Product Inquiry,7,6,5
+TKT600,Client_179,Manufacturing,South,Billing Issue,51,35,4
+TKT601,Client_8,Manufacturing,South,Technical Issue,41,70,3
+TKT602,Client_115,Healthcare,South,Product Inquiry,5,9,4
+TKT603,Client_229,Retail,South,Service Delay,27,33,3
+TKT604,Client_20,Finance,West,Billing Issue,35,33,3
+TKT605,Client_128,Manufacturing,West,Product Inquiry,28,8,3
+TKT606,Client_288,Healthcare,West,Billing Issue,44,35,3
+TKT607,Client_27,Manufacturing,South,Billing Issue,45,13,3
+TKT608,Client_201,Manufacturing,South,Service Delay,33,29,3
+TKT609,Client_218,Finance,North,Service Delay,27,32,3
+TKT610,Client_294,Healthcare,North,Account Access,9,1,5
+TKT611,Client_84,Manufacturing,North,Service Delay,72,33,3
+TKT612,Client_253,Healthcare,East,Service Delay,76,22,1
+TKT613,Client_290,Manufacturing,North,Product Inquiry,21,8,3
+TKT614,Client_133,Finance,South,Service Delay,54,38,3
+TKT615,Client_169,IT Services,East,Technical Issue,80,62,3
+TKT616,Client_161,Finance,West,Account Access,30,4,4
+TKT617,Client_78,Manufacturing,West,Service Delay,41,32,4
+TKT618,Client_73,Finance,East,Account Access,6,6,4
+TKT619,Client_221,Finance,North,Technical Issue,119,62,2
+TKT620,Client_172,Manufacturing,East,Service Delay,26,53,4
+TKT621,Client_27,Manufacturing,North,Product Inquiry,16,12,4
+TKT622,Client_51,Manufacturing,North,Product Inquiry,28,6,3
+TKT623,Client_16,Finance,East,Product Inquiry,10,12,5
+TKT624,Client_54,Finance,North,Account Access,22,11,4
+TKT625,Client_25,IT Services,South,Account Access,25,7,4
+TKT626,Client_73,Finance,West,Technical Issue,100,71,2
+TKT627,Client_160,Healthcare,North,Billing Issue,56,35,4
+TKT628,Client_239,Finance,North,Technical Issue,63,37,2
+TKT629,Client_41,IT Services,South,Account Access,24,6,4
+TKT630,Client_275,IT Services,West,Product Inquiry,17,4,5
+TKT631,Client_6,Healthcare,North,Billing Issue,45,15,3
+TKT632,Client_290,Healthcare,West,Product Inquiry,25,3,4
+TKT633,Client_14,Healthcare,North,Service Delay,73,42,2
+TKT634,Client_11,Manufacturing,West,Technical Issue,60,35,3
+TKT635,Client_262,IT Services,East,Product Inquiry,27,2,4
+TKT636,Client_219,Healthcare,South,Account Access,18,8,4
+TKT637,Client_35,Finance,North,Technical Issue,59,67,4
+TKT638,Client_278,Healthcare,North,Technical Issue,66,57,1
+TKT639,Client_95,Finance,East,Account Access,20,7,4
+TKT640,Client_183,Finance,West,Service Delay,67,24,3
+TKT641,Client_86,Retail,North,Technical Issue,67,25,3
+TKT642,Client_68,Finance,North,Product Inquiry,11,1,4
+TKT643,Client_105,Retail,North,Account Access,28,11,3
+TKT644,Client_118,Manufacturing,West,Service Delay,60,28,2
+TKT645,Client_55,Finance,East,Product Inquiry,28,4,3
+TKT646,Client_198,Manufacturing,North,Technical Issue,113,38,2
+TKT647,Client_193,Manufacturing,East,Technical Issue,90,72,1
+TKT648,Client_281,IT Services,North,Technical Issue,98,42,2
+TKT649,Client_182,IT Services,West,Product Inquiry,13,9,4
+TKT650,Client_163,Finance,East,Service Delay,54,54,3
+TKT651,Client_96,Retail,South,Billing Issue,48,33,3
+TKT652,Client_2,Retail,West,Service Delay,69,38,2
+TKT653,Client_299,Manufacturing,East,Service Delay,50,54,4
+TKT654,Client_243,Healthcare,North,Service Delay,69,28,3
+TKT655,Client_34,Healthcare,East,Product Inquiry,9,3,4
+TKT656,Client_206,Retail,East,Service Delay,54,37,4
+TKT657,Client_63,IT Services,East,Billing Issue,58,13,4
+TKT658,Client_1,Retail,West,Product Inquiry,19,6,4
+TKT659,Client_229,Retail,North,Account Access,23,7,3
+TKT660,Client_87,Manufacturing,West,Technical Issue,100,49,2
+TKT661,Client_146,Retail,South,Service Delay,66,46,2
+TKT662,Client_291,Healthcare,South,Product Inquiry,18,12,5
+TKT663,Client_283,Finance,North,Billing Issue,49,21,4
+TKT664,Client_253,Manufacturing,South,Service Delay,49,42,4
+TKT665,Client_74,Healthcare,South,Service Delay,47,44,3
+TKT666,Client_129,Manufacturing,North,Billing Issue,54,14,3
+TKT667,Client_292,Manufacturing,West,Service Delay,29,58,3
+TKT668,Client_101,Retail,South,Technical Issue,59,38,4
+TKT669,Client_100,Manufacturing,North,Technical Issue,77,61,3
+TKT670,Client_196,Healthcare,North,Billing Issue,33,24,3
+TKT671,Client_135,Healthcare,West,Account Access,8,6,5
+TKT672,Client_70,Retail,West,Technical Issue,115,70,1
+TKT673,Client_151,IT Services,South,Account Access,5,1,4
+TKT674,Client_291,Retail,South,Product Inquiry,24,3,3
+TKT675,Client_105,IT Services,West,Billing Issue,34,22,3
+TKT676,Client_142,Manufacturing,West,Account Access,6,10,5
+TKT677,Client_107,Retail,East,Product Inquiry,9,1,5
+TKT678,Client_37,Finance,East,Account Access,8,4,4
+TKT679,Client_284,Retail,South,Product Inquiry,30,4,4
+TKT680,Client_85,Retail,North,Technical Issue,110,69,1
+TKT681,Client_129,Manufacturing,North,Service Delay,73,54,3
+TKT682,Client_233,IT Services,West,Product Inquiry,7,9,5
+TKT683,Client_135,IT Services,West,Service Delay,79,31,3
+TKT684,Client_14,Retail,North,Product Inquiry,8,1,4
+TKT685,Client_291,Healthcare,West,Account Access,14,8,5
+TKT686,Client_266,Healthcare,South,Account Access,28,8,3
+TKT687,Client_186,Finance,West,Technical Issue,71,48,3
+TKT688,Client_248,Retail,South,Billing Issue,57,27,4
+TKT689,Client_189,IT Services,West,Product Inquiry,11,12,4
+TKT690,Client_13,Manufacturing,East,Account Access,19,12,5
+TKT691,Client_169,IT Services,East,Product Inquiry,25,12,3
+TKT692,Client_238,IT Services,North,Service Delay,62,27,3
+TKT693,Client_72,Retail,North,Technical Issue,42,71,3
+TKT694,Client_274,Healthcare,East,Technical Issue,59,49,3
+TKT695,Client_68,Retail,West,Billing Issue,29,13,4
+TKT696,Client_223,IT Services,South,Technical Issue,105,59,2
+TKT697,Client_159,Manufacturing,West,Billing Issue,32,27,4
+TKT698,Client_156,Retail,East,Billing Issue,32,23,3
+TKT699,Client_221,IT Services,West,Billing Issue,32,36,4
+TKT700,Client_6,IT Services,South,Technical Issue,43,27,4
+TKT701,Client_255,IT Services,West,Technical Issue,114,48,1
+TKT702,Client_20,Retail,South,Product Inquiry,20,4,4
+TKT703,Client_21,Finance,North,Technical Issue,117,72,1
+TKT704,Client_149,Manufacturing,West,Account Access,9,12,4
+TKT705,Client_262,Manufacturing,West,Service Delay,53,35,3
+TKT706,Client_229,Finance,South,Product Inquiry,12,10,5
+TKT707,Client_222,Manufacturing,North,Billing Issue,46,13,3
+TKT708,Client_206,Manufacturing,South,Billing Issue,33,27,4
+TKT709,Client_58,Retail,East,Billing Issue,28,25,4
+TKT710,Client_254,IT Services,East,Account Access,10,8,4
+TKT711,Client_40,Retail,South,Service Delay,40,35,3
+TKT712,Client_99,Manufacturing,East,Service Delay,48,42,4
+TKT713,Client_162,Healthcare,North,Technical Issue,36,25,3
+TKT714,Client_284,Finance,West,Billing Issue,39,17,4
+TKT715,Client_63,Manufacturing,West,Billing Issue,37,28,3
+TKT716,Client_205,IT Services,West,Product Inquiry,29,7,4
+TKT717,Client_67,Manufacturing,South,Service Delay,53,32,4
+TKT718,Client_189,Manufacturing,East,Account Access,9,12,5
+TKT719,Client_231,Finance,North,Account Access,22,5,3
+TKT720,Client_149,Healthcare,East,Product Inquiry,26,11,4
+TKT721,Client_161,IT Services,North,Service Delay,51,50,4
+TKT722,Client_87,Finance,South,Billing Issue,56,16,4
+TKT723,Client_49,Healthcare,South,Account Access,16,11,4
+TKT724,Client_126,Manufacturing,West,Service Delay,80,36,1
+TKT725,Client_203,Manufacturing,North,Billing Issue,29,28,4
+TKT726,Client_143,IT Services,West,Account Access,18,1,4
+TKT727,Client_126,Manufacturing,South,Account Access,17,3,5
+TKT728,Client_47,Manufacturing,North,Product Inquiry,8,11,4
+TKT729,Client_287,Manufacturing,North,Service Delay,60,57,2
+TKT730,Client_60,Retail,South,Billing Issue,20,30,4
+TKT731,Client_164,Healthcare,East,Service Delay,78,55,2
+TKT732,Client_191,Finance,South,Billing Issue,45,32,3
+TKT733,Client_165,Manufacturing,West,Account Access,19,4,4
+TKT734,Client_45,Healthcare,East,Billing Issue,36,17,4
+TKT735,Client_202,Retail,North,Technical Issue,114,67,1
+TKT736,Client_150,IT Services,North,Product Inquiry,15,9,4
+TKT737,Client_206,Retail,East,Product Inquiry,21,12,4
+TKT738,Client_259,Healthcare,South,Service Delay,71,59,3
+TKT739,Client_240,IT Services,East,Account Access,25,4,4
+TKT740,Client_77,Manufacturing,South,Billing Issue,22,29,3
+TKT741,Client_213,Healthcare,South,Service Delay,61,24,2
+TKT742,Client_216,Healthcare,North,Billing Issue,44,30,3
+TKT743,Client_108,Retail,South,Billing Issue,27,16,3
+TKT744,Client_59,Healthcare,South,Technical Issue,51,35,3
+TKT745,Client_205,Finance,South,Account Access,11,6,4
+TKT746,Client_7,Finance,West,Billing Issue,27,33,4
+TKT747,Client_97,Healthcare,West,Product Inquiry,9,6,4
+TKT748,Client_247,Retail,South,Technical Issue,81,47,1
+TKT749,Client_115,IT Services,East,Billing Issue,23,13,4
+TKT750,Client_196,IT Services,West,Billing Issue,43,35,4
+TKT751,Client_115,Manufacturing,West,Billing Issue,38,25,4
+TKT752,Client_9,Finance,North,Account Access,27,8,3
+TKT753,Client_279,Manufacturing,East,Service Delay,39,45,4
+TKT754,Client_165,Finance,North,Technical Issue,119,53,3
+TKT755,Client_235,Manufacturing,North,Technical Issue,98,49,1
+TKT756,Client_225,Manufacturing,North,Account Access,5,11,4
+TKT757,Client_35,Manufacturing,North,Service Delay,40,23,3
+TKT758,Client_249,Retail,North,Technical Issue,84,31,2
+TKT759,Client_165,IT Services,North,Account Access,26,3,4
+TKT760,Client_224,IT Services,North,Service Delay,25,26,3
+TKT761,Client_267,IT Services,South,Technical Issue,93,26,2
+TKT762,Client_66,Healthcare,North,Technical Issue,46,56,4
+TKT763,Client_294,Manufacturing,North,Technical Issue,40,28,4
+TKT764,Client_249,Retail,West,Product Inquiry,30,9,4
+TKT765,Client_296,IT Services,North,Product Inquiry,28,8,4
+TKT766,Client_296,Finance,West,Service Delay,75,58,3
+TKT767,Client_9,Healthcare,West,Technical Issue,85,48,2
+TKT768,Client_225,Manufacturing,South,Technical Issue,88,34,3
+TKT769,Client_193,Retail,North,Billing Issue,31,31,4
+TKT770,Client_207,IT Services,North,Product Inquiry,18,6,4
+TKT771,Client_188,Retail,East,Service Delay,71,55,3
+TKT772,Client_200,IT Services,West,Technical Issue,51,44,3
+TKT773,Client_31,Retail,West,Technical Issue,86,30,3
+TKT774,Client_113,Retail,East,Service Delay,71,38,1
+TKT775,Client_84,Manufacturing,North,Billing Issue,60,21,2
+TKT776,Client_187,Healthcare,South,Technical Issue,85,57,2
+TKT777,Client_202,Retail,West,Product Inquiry,27,6,4
+TKT778,Client_81,Retail,West,Product Inquiry,23,4,3
+TKT779,Client_233,Retail,North,Service Delay,26,28,3
+TKT780,Client_166,IT Services,East,Product Inquiry,11,8,5
+TKT781,Client_129,Healthcare,South,Billing Issue,33,23,3
+TKT782,Client_249,Healthcare,North,Service Delay,48,29,4
+TKT783,Client_42,Finance,South,Technical Issue,111,43,3
+TKT784,Client_126,Finance,West,Product Inquiry,5,10,5
+TKT785,Client_41,Retail,North,Service Delay,49,52,4
+TKT786,Client_31,IT Services,South,Account Access,8,5,5
+TKT787,Client_112,IT Services,East,Product Inquiry,9,10,4
+TKT788,Client_239,Manufacturing,West,Product Inquiry,7,3,4
+TKT789,Client_166,Finance,North,Technical Issue,41,58,3
+TKT790,Client_237,Manufacturing,South,Billing Issue,60,15,3
+TKT791,Client_257,IT Services,East,Account Access,6,2,4
+TKT792,Client_214,Healthcare,East,Technical Issue,30,59,3
+TKT793,Client_150,IT Services,South,Account Access,6,9,4
+TKT794,Client_62,Manufacturing,East,Service Delay,30,41,4
+TKT795,Client_144,Manufacturing,West,Service Delay,52,37,4
+TKT796,Client_16,IT Services,East,Service Delay,48,32,4
+TKT797,Client_231,IT Services,South,Account Access,14,10,4
+TKT798,Client_161,IT Services,South,Product Inquiry,28,9,3
+TKT799,Client_7,Manufacturing,West,Technical Issue,101,46,3
+TKT800,Client_280,Retail,North,Technical Issue,108,57,1
+TKT801,Client_188,Retail,West,Product Inquiry,26,1,3
+TKT802,Client_292,IT Services,West,Billing Issue,27,27,4
+TKT803,Client_223,Retail,West,Billing Issue,28,24,4
+TKT804,Client_257,IT Services,East,Billing Issue,23,18,4
+TKT805,Client_105,Retail,West,Technical Issue,104,56,1
+TKT806,Client_211,Retail,South,Account Access,9,5,5
+TKT807,Client_139,Retail,North,Account Access,16,5,5
+TKT808,Client_120,Healthcare,East,Account Access,22,1,3
+TKT809,Client_245,IT Services,South,Product Inquiry,13,4,4
+TKT810,Client_194,Retail,South,Service Delay,80,30,1
+TKT811,Client_210,Finance,North,Service Delay,80,48,2
+TKT812,Client_18,Manufacturing,West,Billing Issue,22,23,4
+TKT813,Client_163,Manufacturing,East,Service Delay,39,22,4
+TKT814,Client_62,Retail,North,Service Delay,80,39,3
+TKT815,Client_214,Retail,West,Product Inquiry,30,3,4
+TKT816,Client_283,Manufacturing,East,Billing Issue,41,29,4
+TKT817,Client_299,Manufacturing,North,Billing Issue,42,26,4
+TKT818,Client_253,Finance,North,Product Inquiry,14,1,5
+TKT819,Client_184,Healthcare,South,Account Access,14,4,4
+TKT820,Client_145,Retail,East,Technical Issue,115,59,3
+TKT821,Client_102,Finance,West,Billing Issue,55,19,3
+TKT822,Client_98,Retail,South,Billing Issue,49,33,4
+TKT823,Client_7,Manufacturing,South,Product Inquiry,5,12,4
+TKT824,Client_48,Manufacturing,East,Technical Issue,86,52,2
+TKT825,Client_14,Retail,North,Product Inquiry,20,2,4
+TKT826,Client_168,Retail,West,Billing Issue,58,31,4
+TKT827,Client_134,Finance,East,Technical Issue,48,46,4
+TKT828,Client_39,Retail,North,Service Delay,31,51,3
+TKT829,Client_252,Manufacturing,West,Service Delay,46,41,4
+TKT830,Client_105,Retail,West,Service Delay,66,21,2
+TKT831,Client_209,Retail,East,Product Inquiry,8,12,4
+TKT832,Client_237,Retail,West,Billing Issue,57,34,3
+TKT833,Client_75,Healthcare,East,Service Delay,39,58,4
+TKT834,Client_160,Healthcare,South,Technical Issue,117,51,1
+TKT835,Client_63,Retail,North,Billing Issue,49,24,3
+TKT836,Client_159,Finance,North,Billing Issue,46,36,3
+TKT837,Client_262,Healthcare,West,Technical Issue,65,69,1
+TKT838,Client_191,IT Services,South,Service Delay,29,60,3
+TKT839,Client_2,Finance,South,Service Delay,67,43,3
+TKT840,Client_150,Retail,South,Product Inquiry,25,10,4
+TKT841,Client_37,IT Services,West,Billing Issue,21,18,3
+TKT842,Client_29,Healthcare,West,Product Inquiry,19,3,5
+TKT843,Client_37,IT Services,East,Billing Issue,38,16,3
+TKT844,Client_25,Finance,South,Technical Issue,71,46,3
+TKT845,Client_21,Retail,South,Service Delay,56,55,3
+TKT846,Client_142,Retail,West,Product Inquiry,15,12,5
+TKT847,Client_129,Manufacturing,North,Product Inquiry,22,4,3
+TKT848,Client_161,IT Services,West,Product Inquiry,28,12,4
+TKT849,Client_217,Manufacturing,East,Account Access,6,3,5
+TKT850,Client_42,Manufacturing,East,Product Inquiry,28,12,4
+TKT851,Client_166,Manufacturing,South,Service Delay,25,47,3
+TKT852,Client_141,Healthcare,North,Service Delay,67,38,3
+TKT853,Client_169,Retail,North,Account Access,8,5,5
+TKT854,Client_94,Retail,West,Product Inquiry,15,5,4
+TKT855,Client_16,Manufacturing,East,Billing Issue,58,36,4
+TKT856,Client_4,Finance,South,Billing Issue,35,28,3
+TKT857,Client_253,IT Services,North,Service Delay,39,22,3
+TKT858,Client_213,IT Services,South,Billing Issue,39,28,3
+TKT859,Client_267,IT Services,South,Billing Issue,60,32,3
+TKT860,Client_102,Manufacturing,South,Service Delay,50,36,3
+TKT861,Client_64,Healthcare,South,Technical Issue,43,42,3
+TKT862,Client_204,Healthcare,South,Billing Issue,38,19,3
+TKT863,Client_187,IT Services,North,Service Delay,33,50,4
+TKT864,Client_86,Healthcare,South,Account Access,11,3,5
+TKT865,Client_264,Retail,East,Technical Issue,92,26,1
+TKT866,Client_196,Healthcare,South,Technical Issue,40,60,3
+TKT867,Client_93,Manufacturing,North,Billing Issue,34,14,4
+TKT868,Client_147,IT Services,South,Service Delay,41,40,4
+TKT869,Client_172,Manufacturing,West,Product Inquiry,9,8,4
+TKT870,Client_17,IT Services,East,Product Inquiry,16,3,4
+TKT871,Client_105,Healthcare,West,Technical Issue,39,35,4
+TKT872,Client_175,Healthcare,West,Billing Issue,27,32,3
+TKT873,Client_42,Manufacturing,East,Product Inquiry,27,1,3
+TKT874,Client_283,IT Services,South,Service Delay,49,36,3
+TKT875,Client_178,Manufacturing,South,Account Access,5,8,5
+TKT876,Client_168,IT Services,South,Billing Issue,29,24,4
+TKT877,Client_117,Healthcare,South,Product Inquiry,18,2,4
+TKT878,Client_17,Finance,North,Technical Issue,54,52,4
+TKT879,Client_250,Healthcare,South,Account Access,11,2,4
+TKT880,Client_230,Manufacturing,North,Product Inquiry,24,4,3
+TKT881,Client_230,Manufacturing,East,Technical Issue,66,72,3
+TKT882,Client_129,Manufacturing,North,Product Inquiry,29,2,3
+TKT883,Client_151,IT Services,North,Technical Issue,79,70,3
+TKT884,Client_169,IT Services,West,Account Access,6,5,5
+TKT885,Client_39,Manufacturing,East,Service Delay,72,58,3
+TKT886,Client_156,IT Services,West,Account Access,7,9,4
+TKT887,Client_31,Finance,East,Billing Issue,55,18,4
+TKT888,Client_122,Retail,East,Billing Issue,35,25,3
+TKT889,Client_91,IT Services,North,Product Inquiry,19,7,5
+TKT890,Client_248,IT Services,South,Technical Issue,107,68,1
+TKT891,Client_5,IT Services,South,Service Delay,38,31,3
+TKT892,Client_258,Healthcare,East,Technical Issue,103,44,3
+TKT893,Client_144,Retail,East,Product Inquiry,6,1,4
+TKT894,Client_233,Healthcare,East,Product Inquiry,19,3,5
+TKT895,Client_209,IT Services,West,Product Inquiry,21,10,4
+TKT896,Client_271,Healthcare,West,Product Inquiry,5,7,4
+TKT897,Client_228,IT Services,South,Technical Issue,66,31,2
+TKT898,Client_282,Healthcare,East,Technical Issue,117,27,2
+TKT899,Client_271,Manufacturing,North,Account Access,10,10,4
+TKT900,Client_287,Retail,South,Billing Issue,50,29,3
+TKT901,Client_282,Finance,North,Account Access,27,8,3
+TKT902,Client_83,Healthcare,North,Technical Issue,58,56,4
+TKT903,Client_149,IT Services,West,Account Access,28,6,3
+TKT904,Client_62,Manufacturing,West,Service Delay,60,35,2
+TKT905,Client_284,IT Services,East,Account Access,13,2,4
+TKT906,Client_219,Manufacturing,South,Billing Issue,37,16,4
+TKT907,Client_292,IT Services,South,Billing Issue,24,25,4
+TKT908,Client_278,Retail,North,Account Access,14,2,4
+TKT909,Client_153,IT Services,West,Billing Issue,25,18,3
+TKT910,Client_2,Healthcare,South,Product Inquiry,6,10,4
+TKT911,Client_169,Finance,West,Billing Issue,35,27,4
+TKT912,Client_269,Finance,North,Service Delay,77,28,1
+TKT913,Client_146,Manufacturing,North,Billing Issue,32,30,3
+TKT914,Client_48,Healthcare,South,Technical Issue,34,45,3
+TKT915,Client_297,Finance,North,Account Access,18,11,5
+TKT916,Client_236,IT Services,North,Account Access,20,6,4
+TKT917,Client_13,Healthcare,West,Product Inquiry,16,7,5
+TKT918,Client_98,IT Services,East,Product Inquiry,28,3,4
+TKT919,Client_84,Retail,West,Account Access,30,7,3
+TKT920,Client_147,Healthcare,North,Service Delay,60,25,1
+TKT921,Client_279,Healthcare,East,Technical Issue,64,35,1
+TKT922,Client_61,Retail,North,Account Access,7,1,4
+TKT923,Client_79,Retail,South,Billing Issue,37,26,4
+TKT924,Client_95,Healthcare,South,Service Delay,69,46,3
+TKT925,Client_67,Healthcare,North,Product Inquiry,10,7,5
+TKT926,Client_260,Healthcare,West,Product Inquiry,25,12,3
+TKT927,Client_233,Manufacturing,South,Product Inquiry,27,2,3
+TKT928,Client_245,Manufacturing,West,Account Access,18,4,5
+TKT929,Client_290,Healthcare,East,Product Inquiry,5,2,5
+TKT930,Client_109,Finance,South,Service Delay,45,50,3
+TKT931,Client_22,Finance,North,Account Access,17,1,4
+TKT932,Client_136,IT Services,North,Account Access,17,4,5
+TKT933,Client_53,Retail,West,Product Inquiry,6,1,5
+TKT934,Client_80,Healthcare,North,Billing Issue,46,31,4
+TKT935,Client_225,IT Services,East,Service Delay,59,28,4
+TKT936,Client_283,Healthcare,North,Billing Issue,34,15,3
+TKT937,Client_9,Healthcare,West,Billing Issue,45,27,4
+TKT938,Client_19,IT Services,North,Product Inquiry,16,4,5
+TKT939,Client_14,Retail,West,Service Delay,62,27,2
+TKT940,Client_130,Manufacturing,South,Technical Issue,44,60,3
+TKT941,Client_188,Retail,North,Technical Issue,104,50,1
+TKT942,Client_262,Healthcare,West,Technical Issue,43,40,3
+TKT943,Client_18,IT Services,East,Technical Issue,72,24,1
+TKT944,Client_253,Manufacturing,West,Product Inquiry,20,6,3
+TKT945,Client_197,Retail,West,Technical Issue,71,49,2
+TKT946,Client_62,Healthcare,North,Technical Issue,60,24,3
+TKT947,Client_229,Retail,East,Account Access,9,11,4
+TKT948,Client_58,Healthcare,South,Service Delay,67,54,3
+TKT949,Client_234,Healthcare,West,Product Inquiry,21,12,3
+TKT950,Client_215,Manufacturing,East,Product Inquiry,22,7,4
+TKT951,Client_279,IT Services,East,Technical Issue,53,51,3
+TKT952,Client_49,Finance,South,Service Delay,55,21,3
+TKT953,Client_39,Healthcare,North,Service Delay,59,21,4
+TKT954,Client_274,Retail,South,Account Access,13,3,4
+TKT955,Client_41,Finance,West,Technical Issue,31,61,4
+TKT956,Client_256,Manufacturing,West,Billing Issue,22,25,3
+TKT957,Client_138,Healthcare,North,Service Delay,66,22,3
+TKT958,Client_42,IT Services,North,Service Delay,39,42,3
+TKT959,Client_209,Healthcare,East,Account Access,26,9,4
+TKT960,Client_153,Healthcare,East,Product Inquiry,8,8,4
+TKT961,Client_150,IT Services,West,Technical Issue,41,41,3
+TKT962,Client_205,Retail,West,Service Delay,67,30,2
+TKT963,Client_58,Retail,South,Account Access,26,7,4
+TKT964,Client_64,Retail,East,Product Inquiry,20,2,3
+TKT965,Client_158,Retail,East,Product Inquiry,17,11,5
+TKT966,Client_54,Manufacturing,North,Service Delay,73,33,1
+TKT967,Client_13,Manufacturing,West,Technical Issue,60,37,2
+TKT968,Client_185,Finance,North,Technical Issue,30,24,4
+TKT969,Client_236,Manufacturing,South,Product Inquiry,25,10,3
+TKT970,Client_52,IT Services,South,Account Access,9,8,4
+TKT971,Client_62,Retail,West,Technical Issue,82,66,2
+TKT972,Client_212,IT Services,South,Billing Issue,26,18,3
+TKT973,Client_255,Finance,South,Account Access,26,9,4
+TKT974,Client_128,Retail,South,Product Inquiry,29,3,3
+TKT975,Client_270,IT Services,South,Account Access,18,7,5
+TKT976,Client_39,Finance,South,Account Access,26,10,3
+TKT977,Client_104,Healthcare,South,Product Inquiry,13,5,4
+TKT978,Client_163,IT Services,North,Technical Issue,104,46,2
+TKT979,Client_149,Manufacturing,North,Product Inquiry,16,3,4
+TKT980,Client_96,Retail,East,Product Inquiry,23,4,3
+TKT981,Client_293,Manufacturing,South,Account Access,7,10,4
+TKT982,Client_121,Manufacturing,South,Service Delay,56,41,3
+TKT983,Client_159,Healthcare,West,Billing Issue,58,30,4
+TKT984,Client_21,Manufacturing,North,Account Access,29,6,3
+TKT985,Client_268,Retail,North,Technical Issue,36,45,4
+TKT986,Client_12,Retail,North,Account Access,22,2,3
+TKT987,Client_232,Manufacturing,North,Product Inquiry,17,3,5
+TKT988,Client_128,Manufacturing,South,Service Delay,52,23,3
+TKT989,Client_123,Healthcare,West,Service Delay,51,23,3
+TKT990,Client_30,Healthcare,South,Account Access,23,1,4
+TKT991,Client_170,Manufacturing,East,Product Inquiry,24,6,3
+TKT992,Client_198,Manufacturing,West,Account Access,30,11,3
+TKT993,Client_136,Manufacturing,West,Account Access,21,12,3
+TKT994,Client_212,Healthcare,West,Account Access,22,10,4
+TKT995,Client_179,Healthcare,East,Technical Issue,69,58,1
+TKT996,Client_65,Manufacturing,South,Billing Issue,50,14,3
+TKT997,Client_293,Retail,West,Technical Issue,109,34,2
+TKT998,Client_223,Retail,East,Service Delay,53,43,3
+TKT999,Client_27,Retail,East,Technical Issue,95,27,3
+TKT1000,Client_155,IT Services,West,Technical Issue,88,63,3
