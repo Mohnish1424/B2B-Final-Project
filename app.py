@@ -59,7 +59,7 @@ st.markdown("""
   }
 
   .block-container {
-    padding-top: 0 !important;
+    padding-top: 3.5rem !important;
     padding-bottom: 3rem !important;
     max-width: 100% !important;
   }
@@ -68,74 +68,64 @@ st.markdown("""
   .header-banner {
     background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 1.6rem 2.8rem;
+    padding: 2rem 3rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 2rem;
+    min-height: 100px;
   }
-  .header-left {}
+  .header-left { flex: 1; }
   .header-title {
     font-family: 'Fraunces', serif;
-    font-size: 1.65rem;
+    font-size: 2rem;
     font-weight: 600;
     color: #FFFFFF;
-    letter-spacing: -0.3px;
-    line-height: 1.15;
-    margin: 0;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    margin: 0 0 6px 0;
   }
   .header-sub {
-    font-size: 0.75rem;
+    font-size: 0.82rem;
     color: var(--gold);
     font-weight: 500;
-    margin-top: 5px;
-    letter-spacing: 1.5px;
+    margin-top: 6px;
+    letter-spacing: 2px;
     text-transform: uppercase;
   }
-  .header-right { display: flex; align-items: center; gap: 1.2rem; }
+  .header-right { display: flex; align-items: center; gap: 1.4rem; flex-shrink: 0; }
   .group-badge {
     background: var(--surface2);
     border: 1px solid var(--gold-line);
     border-radius: 8px;
-    padding: 0.65rem 1.3rem;
+    padding: 0.85rem 1.5rem;
     text-align: right;
   }
   .group-badge .grp-name {
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 700;
-    font-size: 0.82rem;
+    font-size: 0.88rem;
     color: var(--gold);
-    letter-spacing: 1.2px;
+    letter-spacing: 1.4px;
     text-transform: uppercase;
   }
   .group-badge .members {
-    font-size: 0.70rem;
+    font-size: 0.76rem;
     color: var(--subtle);
-    margin-top: 4px;
-    line-height: 1.6;
+    margin-top: 6px;
+    line-height: 1.8;
     font-weight: 400;
   }
   .logo-box {
-    width: 62px; height: 62px;
+    width: 150px; height: 80px;
     background: var(--surface2);
     border: 1px solid var(--gold-line);
     border-radius: 8px;
     display: flex; align-items: center; justify-content: center;
-    flex-direction: column;
-    font-family: 'Fraunces', serif;
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--gold);
-    letter-spacing: 0;
+    padding: 10px 12px;
+    overflow: hidden;
   }
-  .logo-box span {
-    font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 0.48rem;
-    letter-spacing: 2px;
-    color: var(--muted);
-    text-transform: uppercase;
-    margin-top: 1px;
-  }
+  .logo-box img { width: 100%; height: 100%; object-fit: contain; }
 
   /* ── KPI CARDS ── */
   .kpi-card {
@@ -396,7 +386,7 @@ st.markdown(f"""
       </div>
     </div>
     <div class="logo-box">
-      <img src="data:image/png;base64,{LOGO_B64}" style="width:100%;height:100%;object-fit:contain;padding:6px;" />
+      <img src="data:image/png;base64,{LOGO_B64}" />
     </div>
   </div>
 </div>
